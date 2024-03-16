@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sowme/OneDrive/Desktop/my_project/ml_model/mlruns/0/16da4a40452043d18332a0c7a6cf4116/artifacts
+end_time: 1710422109276
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 16da4a40452043d18332a0c7a6cf4116
+run_name: legendary-lynx-730
+run_uuid: 16da4a40452043d18332a0c7a6cf4116
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710422073110
+status: 3
+tags: []
+user_id: sowme

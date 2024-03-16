@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sowme/OneDrive/Desktop/my_project/ml_model/mlruns/0/92663dc54d4549e596892a292c586a44/artifacts
+end_time: 1710422106221
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 92663dc54d4549e596892a292c586a44
+run_name: nervous-slug-323
+run_uuid: 92663dc54d4549e596892a292c586a44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710422073110
+status: 3
+tags: []
+user_id: sowme

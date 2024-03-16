@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sowme/OneDrive/Desktop/my_project/ml_model/mlruns/0/e7ab217c6222486cb105bd556f1956c2/artifacts
+end_time: 1710422073014
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e7ab217c6222486cb105bd556f1956c2
+run_name: sincere-turtle-941
+run_uuid: e7ab217c6222486cb105bd556f1956c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710422067632
+status: 3
+tags: []
+user_id: sowme
